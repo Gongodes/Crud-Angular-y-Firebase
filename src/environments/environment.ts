@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url:'https://catalogo-productos-87ecc-default-rtdb.firebaseio.com/'
+  
 };
 
 /*
